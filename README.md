@@ -2,12 +2,13 @@
 
 <b>This is python script for downloading image from instagram.<br></b> \
 For this you need to install python.<br> \
-<br>Modules required:\
+Modules required:<br>
                pip3 install bs4 \
                pip3 install urllib3 \
                pip3 install request 
                
 
+<br>This is the main homescreen of the image downloader.<br>
 
 ![Alt text](https://github.com/eternalfroast/Instagram-Image-Downloader/blob/master/imgDownloader.png?raw=true "Title")
 
