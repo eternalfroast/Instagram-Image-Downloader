@@ -1,6 +1,6 @@
 # Instagram Image Downloader
 
-<b>This is python script for downloading image from instagram.<br></b> \
+<b><h3>This is python script for downloading image from instagram.<br></h3></b> \
 For this you need to install python.<br> \
 Modules required:<br>
                pip3 install bs4 \
@@ -20,8 +20,8 @@ When download is completed it will show the alert box
 
 ![Alt text](https://github.com/eternalfroast/Instagram-Image-Downloader/blob/master/123.PNG?raw=true "Title")
 
-Note:\
-The image will be downloaded to the folder in which the program is in
+<b>Note:\
+The image will be downloaded to the folder in which the program is in</b>
 
 
 
