@@ -1,8 +1,8 @@
 # Instagram Image Downloader
 
 <b>This is python script for downloading image from instagram.<br></b> \
-For this you need to install python. \
-Modules required:\
+For this you need to install python.<br> \
+<br>Modules required:\
                pip3 install bs4 \
                pip3 install urllib3 \
                pip3 install request 
